@@ -21,6 +21,16 @@ function Introduction(){
                 See the Pen &lt;a href='https://codepen.io/UJJWALKAR/pen/dyXpgJR'&gt;A Simple HTML Document&lt;/a&gt; by UJJWAL KAR
                 (&lt;a href='https://codepen.io/UJJWALKAR'&gt;@UJJWALKAR&lt;/a&gt;) on &lt;a href='https://codepen.io'&gt;CodePen&lt;/a&gt;.
             </iframe>
+            <h3>Explaination :</h3>
+            <ul>
+            <li>The <code className="w3-codespan">&lt;!DOCTYPE html&gt;</code> declaration defines that this document is an HTML5 document. For more read <a href="https://www.geeksforgeeks.org/html-doctypes/"><span style={{color: 'rgb(84, 172, 210)'}}>https://www.geeksforgeeks.org/html-doctypes/</span></a></li>
+            <li>The <code className="w3-codespan">&lt;html&gt;</code> element is the root element of an HTML page</li>
+            <li>The <code className="w3-codespan">&lt;head&gt;</code> element contains meta information about the HTML page</li>
+            <li>The <code className="w3-codespan">&lt;title&gt;</code> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)&nbsp;</li>
+            <li>The <code className="w3-codespan">&lt;body&gt;</code> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.</li>
+            <li>&nbsp;The <code className="w3-codespan">&lt;h1&gt;</code> element defines a large heading</li>
+            <li>&nbsp;The <code className="w3-codespan">&lt;p&gt;</code> element defines a paragraph</li>
+            </ul>
             </div>
         } />);
 }
