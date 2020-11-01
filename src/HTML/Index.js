@@ -8,9 +8,11 @@ function HTMLIndex(){
     <a href="#Elements" className="a w3-bar-item w3-button btn"> Elements </a>
     <a href="#Heading" className="a w3-bar-item w3-button btn"> Heading </a>
     <a href="#Paragraphs" className="a w3-bar-item w3-button btn"> Paragraphs </a>
+    <a href="#Formating" className="a w3-bar-item w3-button btn"> Formating </a>
     <a href="#HTML_Line_Breaks" className="a w3-bar-item w3-button btn"> HTML Line Breaks </a>
     <a href="#pre" className="a w3-bar-item w3-button btn">HTML &lt;pre&gt; Element</a>
     <a href="#Attributes" className="a w3-bar-item w3-button btn"> Attributes </a>
+    <a href="#Image" className="a w3-bar-item w3-button btn"> Image </a>   
     <a href="#Notes" className="a w3-bar-item w3-button btn"> Notes </a>
     
     </div>
