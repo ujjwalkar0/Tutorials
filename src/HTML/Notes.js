@@ -12,6 +12,8 @@ function Notes(){
             <li><strong>Never Skip the End Tag</strong> :- Some HTML elements will display correctly, even if you forget the end tag, but Unexpected results and errors may occur if you forget the end tag</li>
             <li><strong>Empty HTML Elements :-&nbsp;</strong>HTML elements with no content are called empty elements.<br /> Example :-<code className="w3-codespan">&nbsp;&lt;br&gt;</code> tag</li>
             <li><strong>HTML is Not Case Sensitive :- </strong>HTML tags are not case sensitive: <code className="w3-codespan">&lt;P&gt;</code> means the same as <code className="w3-codespan">&lt;p&gt;</code>.</li>
+            <li><strong>Double quotes around attribute values are the most common in HTML, but single quotes can also be used.In some situations, when the attribute value itself contains double quotes, it is necessary to use single quotes:</strong></li>
+            
             </ol>
             </div>
         } />);

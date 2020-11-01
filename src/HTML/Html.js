@@ -8,6 +8,9 @@ import Heading from './Heading';
 import Paragraphs from './Paragraphs';
 import HTMLLineBreaks from './HTML_Line_Breaks';
 import Pre from './pre';
+import Attributes from './Attribute';
+import Image from './Image';
+import Formating from './Formating';
 
 function Html(){
     return (
@@ -19,7 +22,10 @@ function Html(){
         <Paragraphs />
         <HTMLLineBreaks />
         <Pre />
-        <Notes />
+        <Attributes />
+        <Image />
+        <Formating />
+        <Notes />        
         <New />
 {/* -------------------------------------------------------------- */}
         </>
