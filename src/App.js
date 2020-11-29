@@ -18,12 +18,12 @@ function App(){
     </main>
     }
     content={
-      <main>
+//       <main>
       <Switch>
         <Route path="/HTML"><Html/></Route>
         <Route path="/CSS"><Css/></Route>
       </Switch>
-      </main>
+//       </main>
 
     }
     
